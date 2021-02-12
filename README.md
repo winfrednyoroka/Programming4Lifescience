@@ -11,7 +11,7 @@ Bioinformatics can be used for the following
 
 # Assignments to be done
 
-Consider using the python notebook for group assignment, upon completeion of the exercise share with me your notebooks.
+Consider using the python notebook for group assignment, upon completion of the exercise share with me your notebooks.
 
 If you are stuck at any particular point, consider asking colleagues or reach out directl to me
 
