@@ -13,7 +13,9 @@ Bioinformatics can be used for the following
 
 Consider using the python notebook for group assignment, upon completion of the exercise share with me your notebooks.
 
-If you are stuck at any particular point, consider asking colleagues or reach out directl to me
+If you are stuck at any particular point, consider asking colleagues or reach out directly to me
 
 Also consider the exercises at the end of every notebook for your reference.
+
+With this i can proudly say i can FORK, create a branch and a pull request with my eyes closed
 
