@@ -17,5 +17,5 @@ If you are stuck at any particular point, consider asking colleagues or reach ou
 
 Also consider the exercises at the end of every notebook for your reference.
 
-With this i can proudly say i can FORK, create a branch and a pull request with my eyes closed
+With this i can proudly say i can fork, create a branch and a pull request with my eyes closed
 
