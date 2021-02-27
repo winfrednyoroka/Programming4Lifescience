@@ -1,0 +1,78 @@
+In most cases, the questions below are independent of each other. Many questions accept different ways to address them (which means several "right answers").
+1. Suppose your current working directory is /home/wgatua/Linux/Exercises/. What is the command that will enable to move to /home/wgatua/Fun_stuff/?
+cd ../../Funstuff
+
+2. How do you count the number of lines contained in a text file?
+
+
+3. You are in /home/jb/. Suppose this directory is empty. How to you create in only one command the whole path /home/jb/Work/Sequencing/ONT/?
+ 
+ 
+4. How do you access the help on a given command, for instance the help on grep?
+
+
+5. Which command would you use in order to create an empty file in the current directory, let's say empty.txt? 
+
+
+5. Suppose your current working directory contains a file named seqs.txt. How do you rename this file into sequences.fasta? Does this have any effect on the content of the file, and if yes, what does it do?
+
+
+6. In Unix, how does the extension of a file (the part of the filename after the dot) matter?
+
+
+
+7. In Unix, which command will *really* help you to determine the type of a file (i.e. its type of file content, e.g. whether it is a jpeg-compressed image or a pdf file)?
+
+8. How can you create in a single command a file containing the contents "Hello, world!" and named universal_greeting.txt?
+
+9. What about creating the same file but with filename "universal greeting.txt" (the filename contains a space)?
+
+
+10. How can you use the commandline (on whichever machine you are now, that is connected to the internet) to download directly the file you can see on https://github.com/eanbit-rt/IntroductoryLinux-2019/blob/master/Data/nrf1_seq.fa ? Be careful, you need to get the raw text file itself, not the full HTML page presenting it.
+
+
+11. How can you count the number of lines in this text file? How do you count the number of sequences?
+
+
+
+12. Extract only the identifier lines from this file, and write them into a file called "identifiers.txt".
+
+
+13. How to write a loop in Bash producing all the integers from 1 to 30, one per line?
+
+
+14. Create a file called "trial1" and rename it into "trial1.data".
+
+
+15. Create at once 20 files called "trial1" to "trial20" and *then* rename them all by appending the suffix ".data". Of course, don't issue 20 commands, but just one.
+
+
+16. In Bash, how do you redirect the output of a command so that it is not displayed on the screen but rather goes into a file?
+
+
+17. Try this with the command "expr 1 / 0", whose purpose is to calculate the integer result of 1 divided by 0. What happens? Why?
+expr: division by zero
+
+
+18. How can you separately redirect the standard output and the standard error streams into two separate files?
+
+ 
+19. How can you process the file you got from question 10 to replace all its uppercase "A" letters into lowercase "a" letters, leaving the rest untouched? 
+
+
+20. In one command, ask for the display of all identifier lines from the same file nrf1_seq.fa without wrapping the lines, i.e. by having all lines displayed on your screen effectively start with the character '>'.
+
+
+
+21. Can you write a very short script (possibly one single commandline) to extract from the same file the species names?
+
+
+
+22. Once this is done, how to count the species names with their order of multiplicity (i.e. how many sequences belong to Mus musculus, how many to Homo sapiens, etc)?
+
+
+
+23. Write a Bash script asking "What's your name?", then waiting for you (the user) to enter you name and press Enter , 
+following what the program displays some text according to the following pattern: "Good morning/day/evening, your_name!
+ It's now current_time on this lovely day of current_day." and it exits. 
+ 
