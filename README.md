@@ -2,7 +2,7 @@
 
 This repository contains the lecture materials for HackBio training in programming for life scientists. These notebooks are regimented for clear understanding and application in Bionformatics
 
-<<<<<<< HEAD
+
 
 #Bioinformaticcs is fun
 #I will be working on genomics project.
@@ -19,8 +19,11 @@ Bioinformatics can be used for the following
 
 Consider using the python notebook for group assignment, upon completion of the exercise share with me your notebooks.
 
-If you are stuck at any particular point, consider asking colleagues or reach out directl to me
+If you are stuck at any particular point, consider asking colleagues or reach out directly to me
 
 Also consider the exercises at the end of every notebook for your reference.
 
->>>>>>> 1cc116d4e4336134a648676f823d770ba205e1c7
+
+=======
+With this i can proudly say i can fork, create a branch and a pull request with my eyes closed
+
