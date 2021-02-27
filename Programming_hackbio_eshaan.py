@@ -91,6 +91,47 @@ print("sequence_3.fasta:",count_seq2)
 
 #q7
 
+myfile_header = open("all_sequence_headers.txt", "w")
+line_header = []
+with open("C:/Users/playe/Google Drive/sequence1.fasta") as myfile_h1:
+    for line in myfile_h1.readlines():
+        if line.startswith(">"):
+            line.strip
+            line_header.append(str(line))
+        continue
+str_h = ""
+for item in line_header:
+    str_h += item
+print(str_h)
+myfile_header.write(str_h)
+
+myfile_header1 = open("all_sequence_headers.txt", "w")
+line_header1 = []
+with open("C:/Users/playe/Google Drive/sequence_2.fasta") as myfile_h2:
+    for line in myfile_h2.readlines():
+        if line.startswith(">"):
+            line.strip
+            line_header1.append(str(line))
+        continue
+str_h1 = ""
+for item in line_header1:
+    str_h1 += item
+myfile_header.write(str_h1)
+
+myfile_header2 = open("all_sequence_headers.txt", "w")
+line_header2 = []
+with open("C:/Users/playe/Google Drive/sequence_3.fasta") as myfile_h3:
+    for line in myfile_h3.readlines():
+        if line.startswith(">"):
+            line.strip
+            line_header2.append(str(line))
+        continue
+str_h2 = ""
+for item in line_header2:
+    str_h2 += item
+myfile_header.write(str_h2)
+myfile_header.close()
+    
 
 
 
