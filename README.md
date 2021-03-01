@@ -2,6 +2,12 @@
 
 This repository contains the lecture materials for HackBio training in programming for life scientists. These notebooks are regimented for clear understanding and application in Bionformatics
 
+
+
+#Bioinformaticcs is fun
+#I will be working on genomics project.
+#I will also attend the drug development class
+=======
 # Bioinformatics in life Science
 Bioinformatics can be used for the following
 **Transcriptomics analysis**
@@ -17,5 +23,7 @@ If you are stuck at any particular point, consider asking colleagues or reach ou
 
 Also consider the exercises at the end of every notebook for your reference.
 
+
+=======
 With this i can proudly say i can fork, create a branch and a pull request with my eyes closed
 
