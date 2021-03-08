@@ -1,0 +1,3 @@
+An interpreter translates program one statement at a time while a compiler scans the entire program and translates it as a whole into machine code.
+An interpreter does not generate intermediate object code, hence it is memory efficient while a compiler generates intermediate object code which further requires linking, hence requires more memory.
+An interpreter keeps translating the program continuously till the first error is confronted while a compiler generates the error message only after it scans the complete program.
