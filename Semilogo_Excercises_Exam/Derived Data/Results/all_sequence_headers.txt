@@ -1,0 +1,16 @@
+>MH403560.1 Human rotavirus A isolate KEN/0509/2011 VP4 (P) gene, partial cds
+>MH403559.1 Human rotavirus A isolate KEN/0692/2014 VP4 (P) gene, partial cds
+>MH403558.1 Human rotavirus A isolate KEN/0024/2002 VP4 (P) gene, partial cds
+>MH403557.1 Human rotavirus A isolate KEN/0006/2002 VP4 (P) gene, partial cds
+>MH403556.1 Human rotavirus A isolate KEN/0003/2002 VP4 (P) gene, partial cds
+>AY660684.1 Human respiratory syncytial virus strain Ken/2/03 from Kenya attachment glycoprotein (G) gene, partial cds
+>AY660683.1 Human respiratory syncytial virus strain Ken/23/03 from Kenya attachment glycoprotein (G) gene, partial cds
+>AY660682.1 Human respiratory syncytial virus strain Ken/12/03 from Kenya attachment glycoprotein (G) gene, partial cds
+>AY660681.1 Human respiratory syncytial virus strain Ken/29/03 from Kenya attachment glycoprotein (G) gene, partial cds
+>AY660680.1 Human respiratory syncytial virus strain Ken/253/02 from Kenya attachment glycoprotein (G) gene, partial cds
+>MK989740.1 Rhinovirus A strain 20693_58_HRV-A polyprotein gene, complete cds
+>MK989739.1 Rhinovirus A strain 20693_45_HRV-A polyprotein gene, complete cds
+>MK989738.1 Rhinovirus A strain 20693_16_HRV-A polyprotein gene, partial cds
+>MK989737.1 Rhinovirus A strain 20693_1_HRV-A polyprotein gene, complete cds
+>MK989736.1 Rhinovirus A strain 20692_57_HRV-A polyprotein gene, complete cds
+>NM_002299.4 Homo sapiens lactase (LCT), mRNA
